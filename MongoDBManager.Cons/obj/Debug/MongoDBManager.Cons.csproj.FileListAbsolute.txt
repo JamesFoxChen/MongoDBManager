@@ -1,0 +1,2 @@
+C:\Test\MongoDB\MongoDBManager\MongoDBManager.Cons\bin\Debug\MongoDBManager.Cons.exe.config
+C:\Test\MongoDB\MongoDBManager.Cons\bin\Debug\MongoDBManager.Cons.exe.config
